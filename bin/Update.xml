@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2020-10-31 19:25:34" filenum="44">
+	<Product productname="Product-Name" createdate="2020-12-26 22:18:30" filenum="44">
 		<File>
 			<FileName>Changelog.txt</FileName>
 			<FileImageCompileTime>0</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>241</Length>
-			<FileDateLow>1978936525</FileDateLow>
-			<FileDateHigh>30846839</FileDateHigh>
+			<FileDateLow>1065901831</FileDateLow>
+			<FileDateHigh>30858128</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<Register>NO</Register>
 			<ZipFile>NO</ZipFile>
@@ -554,7 +554,7 @@
 		</File>
 		<File>
 			<FileName>antinat.exe</FileName>
-			<FileImageCompileTime>1604141520</FileImageCompileTime>
+			<FileImageCompileTime>1608990848</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>482304</Length>
@@ -592,7 +592,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1604141742</FileImageCompileTime>
+			<FileImageCompileTime>1608990867</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>4844544</Length>
@@ -611,7 +611,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1604141504</FileImageCompileTime>
+			<FileImageCompileTime>1608990838</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>2055680</Length>
@@ -630,7 +630,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1604141493</FileImageCompileTime>
+			<FileImageCompileTime>1608990830</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>4316160</Length>
@@ -649,7 +649,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExEHM32.dll</FileName>
-			<FileImageCompileTime>1604141475</FileImageCompileTime>
+			<FileImageCompileTime>1608963061</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>52224</Length>
@@ -668,7 +668,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExEHM64.dll</FileName>
-			<FileImageCompileTime>1604141472</FileImageCompileTime>
+			<FileImageCompileTime>1608963058</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>82944</Length>
@@ -687,7 +687,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExLDR32.dll</FileName>
-			<FileImageCompileTime>1604141480</FileImageCompileTime>
+			<FileImageCompileTime>1608963066</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>65536</Length>
@@ -706,7 +706,7 @@
 		</File>
 		<File>
 			<FileName>SocksCapExLDR64.dll</FileName>
-			<FileImageCompileTime>1604141478</FileImageCompileTime>
+			<FileImageCompileTime>1608963063</FileImageCompileTime>
 			<FileVersion></FileVersion>
 			<ProductVersion></ProductVersion>
 			<Length>112128</Length>
