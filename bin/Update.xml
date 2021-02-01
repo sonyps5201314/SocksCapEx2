@@ -1,841 +1,370 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2020-12-30 07:30:39" filenum="44">
+	<Product productname="Product-Name" createdate="2021-02-02 02:27:34" filenum="44">
 		<File>
 			<FileName>Changelog.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>241</Length>
-			<FileDateLow>1867358359</FileDateLow>
-			<FileDateHigh>30858810</FileDateHigh>
+			<FileDateLow>3211819506</FileDateLow>
+			<FileDateHigh>30865607</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Changelog.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>availablednslist.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>226</Length>
 			<FileDateLow>3503609010</FileDateLow>
 			<FileDateHigh>30819399</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/availablednslist.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>ca-bundle.crt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>223687</Length>
 			<FileDateLow>3890775787</FileDateLow>
 			<FileDateHigh>30819391</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/ca-bundle.crt</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>dnsmap.ini</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>190</Length>
 			<FileDateLow>334501981</FileDateLow>
 			<FileDateHigh>30709651</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/dnsmap.ini</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>proxyrule.ini</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>2017</Length>
 			<FileDateLow>3495086417</FileDateLow>
 			<FileDateHigh>30819392</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/proxyrule.ini</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>update.ini</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>681</Length>
 			<FileDateLow>2558610489</FileDateLow>
 			<FileDateHigh>30802985</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/update.ini</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>OemVista.inf</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>7537</Length>
 			<FileDateLow>1038785024</FileDateLow>
 			<FileDateHigh>30771581</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\arm64\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/arm64/nt0A00/OemVista.inf</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.cat</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>10861</Length>
 			<FileDateLow>2914144768</FileDateLow>
 			<FileDateHigh>30771592</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\arm64\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/arm64/nt0A00/tap0901.cat</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.sys</FileName>
 			<FileImageCompileTime>1571819909</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>40128</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\arm64\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/arm64/nt0A00/tap0901.sys</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>OemWin2k.inf</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>7288</Length>
 			<FileDateLow>1578178816</FileDateLow>
 			<FileDateHigh>30318254</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0501</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0501/OemWin2k.inf</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.cat</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>10512</Length>
 			<FileDateLow>203473152</FileDateLow>
 			<FileDateHigh>30318263</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0501</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0501/tap0901.cat</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.sys</FileName>
 			<FileImageCompileTime>1377175201</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>40664</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0501</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0501/tap0901.sys</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>OemVista.inf</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>7537</Length>
 			<FileDateLow>3130718976</FileDateLow>
 			<FileDateHigh>30773169</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0600</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0600/OemVista.inf</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.cat</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>10042</Length>
 			<FileDateLow>355751680</FileDateLow>
 			<FileDateHigh>30773170</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0600</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0600/tap0901.cat</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.sys</FileName>
 			<FileImageCompileTime>1572502179</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>30720</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0600</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0600/tap0901.sys</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>OemVista.inf</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>7537</Length>
 			<FileDateLow>798785024</FileDateLow>
 			<FileDateHigh>30771581</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0A00/OemVista.inf</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.cat</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>10711</Length>
 			<FileDateLow>253883136</FileDateLow>
 			<FileDateHigh>30771584</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0A00/tap0901.cat</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.sys</FileName>
 			<FileImageCompileTime>1571819904</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>39920</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x64\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x64/nt0A00/tap0901.sys</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>OemWin2k.inf</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>7271</Length>
 			<FileDateLow>1558178816</FileDateLow>
 			<FileDateHigh>30318254</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0501</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0501/OemWin2k.inf</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.cat</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>10476</Length>
 			<FileDateLow>183473152</FileDateLow>
 			<FileDateHigh>30318263</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0501</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0501/tap0901.cat</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.sys</FileName>
 			<FileImageCompileTime>1377175200</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>35288</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0501</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0501/tap0901.sys</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>OemVista.inf</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>7533</Length>
 			<FileDateLow>3070718976</FileDateLow>
 			<FileDateHigh>30773169</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0600</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0600/OemVista.inf</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.cat</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>10010</Length>
 			<FileDateLow>295751680</FileDateLow>
 			<FileDateHigh>30773170</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0600</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0600/tap0901.cat</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.sys</FileName>
 			<FileImageCompileTime>1572502155</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>25600</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0600</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0600/tap0901.sys</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>OemVista.inf</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>7533</Length>
 			<FileDateLow>738785024</FileDateLow>
 			<FileDateHigh>30771581</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0A00/OemVista.inf</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.cat</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>10866</Length>
 			<FileDateLow>2533883136</FileDateLow>
 			<FileDateHigh>30771584</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0A00/tap0901.cat</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>tap0901.sys</FileName>
 			<FileImageCompileTime>1571819879</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>35008</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>EnhancedMode\driver\x86\nt0A00</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/EnhancedMode/driver/x86/nt0A00/tap0901.sys</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>History.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>14137</Length>
 			<FileDateLow>2483252013</FileDateLow>
 			<FileDateHigh>30735823</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/History.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>ReadMe.txt</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>1986</Length>
 			<FileDateLow>311952360</FileDateLow>
 			<FileDateHigh>30709651</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/ReadMe.txt</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>antinat.exe</FileName>
-			<FileImageCompileTime>1609277045</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
+			<FileImageCompileTime>1612203689</FileImageCompileTime>
 			<Length>482304</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>Server</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.exe</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>antinat.xml</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>1058</Length>
 			<FileDateLow>1628494735</FileDateLow>
 			<FileDateHigh>30734265</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>Server</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.xml</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1609284445</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
+			<FileImageCompileTime>1612203767</FileImageCompileTime>
 			<Length>4844544</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapEx.exe</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1609283994</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
+			<FileImageCompileTime>1612203680</FileImageCompileTime>
 			<Length>2055680</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL32.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1609283985</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
+			<FileImageCompileTime>1612203672</FileImageCompileTime>
 			<Length>4316160</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL64.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SocksCapExEHM32.dll</FileName>
-			<FileImageCompileTime>1609189453</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
+			<FileImageCompileTime>1612194111</FileImageCompileTime>
 			<Length>52224</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExEHM32.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SocksCapExEHM64.dll</FileName>
-			<FileImageCompileTime>1609264266</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
+			<FileImageCompileTime>1612194108</FileImageCompileTime>
 			<Length>82944</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExEHM64.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SocksCapExLDR32.dll</FileName>
-			<FileImageCompileTime>1609189458</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
+			<FileImageCompileTime>1612194117</FileImageCompileTime>
 			<Length>65536</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR32.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SocksCapExLDR64.dll</FileName>
-			<FileImageCompileTime>1609189456</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
+			<FileImageCompileTime>1612194115</FileImageCompileTime>
 			<Length>112128</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR64.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SsFreeAccountsSniffer.dll</FileName>
 			<FileImageCompileTime>1592354078</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>35840</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SsFreeAccountsSniffer_freeshadow.net.dll</FileName>
 			<FileImageCompileTime>1592354064</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>35840</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_freeshadow.net.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SsFreeAccountsSniffer_freeshadowsocks.cf.dll</FileName>
 			<FileImageCompileTime>1592354048</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>33280</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_freeshadowsocks.cf.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SsFreeAccountsSniffer_i.freevpnss.com.dll</FileName>
 			<FileImageCompileTime>1592354030</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>27648</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_i.freevpnss.com.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>SsFreeAccountsSniffer_SsrSubscribeGeneral.dll</FileName>
 			<FileImageCompileTime>1592353961</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>42496</Length>
-			<FileDateLow>0</FileDateLow>
-			<FileDateHigh>0</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
 			<LocalPath>SsFreeAccountsSnifferPlugin</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SsFreeAccountsSnifferPlugin/SsFreeAccountsSniffer_SsrSubscribeGeneral.dll</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 		<File>
 			<FileName>使用说明.pdf</FileName>
-			<FileImageCompileTime>0</FileImageCompileTime>
-			<FileVersion></FileVersion>
-			<ProductVersion></ProductVersion>
 			<Length>149066</Length>
 			<FileDateLow>320743945</FileDateLow>
 			<FileDateHigh>30709651</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
-			<Register>NO</Register>
-			<ZipFile>NO</ZipFile>
-			<ForceOverwrite>NO</ForceOverwrite>
-			<Execute>NO</Execute>
-			<ExecutePar></ExecutePar>
-			<LocalPath></LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/%e4%bd%bf%e7%94%a8%e8%af%b4%e6%98%8e.pdf</URL>
-			<UserName></UserName>
-			<Password></Password>
 		</File>
 	</Product>
 </xmlRoot>
