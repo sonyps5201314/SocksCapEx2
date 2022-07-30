@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="GB2312" ?> 
 <xmlRoot keyname="KeyValue">
-	<Product productname="Product-Name" createdate="2021-09-07 02:27:48" filenum="44">
+	<Product productname="Product-Name" createdate="2022-07-31 02:36:31" filenum="44">
 		<File>
 			<FileName>Changelog.txt</FileName>
 			<Length>241</Length>
-			<FileDateLow>3512296874</FileDateLow>
-			<FileDateHigh>30909258</FileDateHigh>
+			<FileDateLow>3807032858</FileDateLow>
+			<FileDateHigh>30975039</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Changelog.txt</URL>
 		</File>
 		<File>
 			<FileName>availablednslist.txt</FileName>
 			<Length>226</Length>
-			<FileDateLow>3503609010</FileDateLow>
-			<FileDateHigh>30819399</FileDateHigh>
+			<FileDateLow>4097251122</FileDateLow>
+			<FileDateHigh>30872891</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/availablednslist.txt</URL>
@@ -21,8 +21,8 @@
 		<File>
 			<FileName>ca-bundle.crt</FileName>
 			<Length>223687</Length>
-			<FileDateLow>3890775787</FileDateLow>
-			<FileDateHigh>30819391</FileDateHigh>
+			<FileDateLow>4102691272</FileDateLow>
+			<FileDateHigh>30872891</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/ca-bundle.crt</URL>
@@ -30,8 +30,8 @@
 		<File>
 			<FileName>dnsmap.ini</FileName>
 			<Length>190</Length>
-			<FileDateLow>334501981</FileDateLow>
-			<FileDateHigh>30709651</FileDateHigh>
+			<FileDateLow>4105920302</FileDateLow>
+			<FileDateHigh>30872891</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/dnsmap.ini</URL>
@@ -39,8 +39,8 @@
 		<File>
 			<FileName>proxyrule.ini</FileName>
 			<Length>2017</Length>
-			<FileDateLow>3495086417</FileDateLow>
-			<FileDateHigh>30819392</FileDateHigh>
+			<FileDateLow>4109453629</FileDateLow>
+			<FileDateHigh>30872891</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/proxyrule.ini</URL>
@@ -48,8 +48,8 @@
 		<File>
 			<FileName>update.ini</FileName>
 			<Length>681</Length>
-			<FileDateLow>2558610489</FileDateLow>
-			<FileDateHigh>30802985</FileDateHigh>
+			<FileDateLow>4112389914</FileDateLow>
+			<FileDateHigh>30872891</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<LocalPath>config</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/config/update.ini</URL>
@@ -239,8 +239,8 @@
 		<File>
 			<FileName>History.txt</FileName>
 			<Length>14137</Length>
-			<FileDateLow>1010096434</FileDateLow>
-			<FileDateHigh>30909258</FileDateHigh>
+			<FileDateLow>3258003363</FileDateLow>
+			<FileDateHigh>30975039</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/History.txt</URL>
 		</File>
@@ -254,7 +254,7 @@
 		</File>
 		<File>
 			<FileName>antinat.exe</FileName>
-			<FileImageCompileTime>1630950826</FileImageCompileTime>
+			<FileImageCompileTime>1659203919</FileImageCompileTime>
 			<Length>482304</Length>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<LocalPath>Server</LocalPath>
@@ -263,57 +263,57 @@
 		<File>
 			<FileName>antinat.xml</FileName>
 			<Length>1058</Length>
-			<FileDateLow>1628494735</FileDateLow>
-			<FileDateHigh>30734265</FileDateHigh>
+			<FileDateLow>286112672</FileDateLow>
+			<FileDateHigh>30909261</FileDateHigh>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<LocalPath>Server</LocalPath>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/Server/antinat.xml</URL>
 		</File>
 		<File>
 			<FileName>SocksCapEx.exe</FileName>
-			<FileImageCompileTime>1630951276</FileImageCompileTime>
+			<FileImageCompileTime>1659204821</FileImageCompileTime>
 			<Length>4844544</Length>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapEx.exe</URL>
 		</File>
 		<File>
 			<FileName>SocksCapExDLL32.dll</FileName>
-			<FileImageCompileTime>1630368592</FileImageCompileTime>
+			<FileImageCompileTime>1659203909</FileImageCompileTime>
 			<Length>2055680</Length>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL32.dll</URL>
 		</File>
 		<File>
 			<FileName>SocksCapExDLL64.dll</FileName>
-			<FileImageCompileTime>1630368585</FileImageCompileTime>
+			<FileImageCompileTime>1659203904</FileImageCompileTime>
 			<Length>4316160</Length>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExDLL64.dll</URL>
 		</File>
 		<File>
 			<FileName>SocksCapExEHM32.dll</FileName>
-			<FileImageCompileTime>1630368569</FileImageCompileTime>
+			<FileImageCompileTime>1659099357</FileImageCompileTime>
 			<Length>52224</Length>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExEHM32.dll</URL>
 		</File>
 		<File>
 			<FileName>SocksCapExEHM64.dll</FileName>
-			<FileImageCompileTime>1630368567</FileImageCompileTime>
+			<FileImageCompileTime>1659099355</FileImageCompileTime>
 			<Length>82944</Length>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExEHM64.dll</URL>
 		</File>
 		<File>
 			<FileName>SocksCapExLDR32.dll</FileName>
-			<FileImageCompileTime>1630368575</FileImageCompileTime>
+			<FileImageCompileTime>1659099366</FileImageCompileTime>
 			<Length>65536</Length>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR32.dll</URL>
 		</File>
 		<File>
 			<FileName>SocksCapExLDR64.dll</FileName>
-			<FileImageCompileTime>1630368573</FileImageCompileTime>
+			<FileImageCompileTime>1659099364</FileImageCompileTime>
 			<Length>112128</Length>
 			<InstallDir>CURRENTDIR</InstallDir>
 			<URL>https://raw.githubusercontent.com/sonyps5201314/SocksCapEx2/master/bin/SocksCapExLDR64.dll</URL>
